@@ -6,11 +6,8 @@ permalink: /links/
 
 # LINKS
 
-1. [How Operating Systems Work](https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)<br>
-   lorem ipsum sit dolor amet
+1. [Linux Full Guide](https://linuxjourney.com/)<br>
+   FUll linux guide and documentation, learn linux form beginning
 
-2. [A Beginners Guide to Linux](https://www.lifewire.com/beginners-guide-to-linux-4090233)<br>
-   sky is blue ocean is blue apple is red rose is red bleh bleh bleh
-
-3. [Game Console Operating Systems](https://www.youtube.com/watch?v=fTVyx4AO18U)<br>
-   is linux still fighting? or linux is dying?
+2. [Sudo Description and Function](https://www.linuxid.net/26302/pengertian-perintah-sudo-di-linux/)<br>
+   learn about sudo command in linux and it function
