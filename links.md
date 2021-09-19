@@ -11,3 +11,7 @@ permalink: /LINKS/
 
 2. [Sudo Description and Function](https://www.linuxid.net/26302/pengertian-perintah-sudo-di-linux/)<br>
    learn about sudo command in linux and it function
+   
+3. [GPG key](https://help.ubuntu.com/community/GnuPrivacyGuardHowto)<br>
+   explanation about gpg key, the function, and how to setup own gpg key.
+   
