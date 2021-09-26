@@ -19,3 +19,15 @@ ZCZC W02 15 L04 GitHub Pages
 ZCZC W02 120 L12 Assignment #02
 ZCZC W02 60 L73 Gaming
 ZCZC W02 30 L01 SCELE/Discord related
+ZCZC W03 20 L01 SCELE/Discord related
+ZCZC W03 45 L21 Trying something
+ZCZC W03 20 L64 Helping OS related problem to a friend.
+ZCZC W03 150 L02 ZOOM meetings related
+ZCZC W03 15 L03 GitHub related
+ZCZC W03 120 L73 Gaming
+ZCZC W03 60 L23 Linux CLI including tar, etc.
+ZCZC W03 30 L05 Quiz related
+ZCZC W03 180 L13 Assignment #03
+ZCZC W03 60 L61 Reinstall/Restore/Backup Virtual Box
+
+
