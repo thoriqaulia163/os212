@@ -15,3 +15,6 @@ permalink: /LINKS/
 3. [GPG key](https://help.ubuntu.com/community/GnuPrivacyGuardHowto)<br>
    explanation about gpg key, the function, and how to setup own gpg key.
    
+4. [Virtual Box Error Fix](https://forums.virtualbox.org/viewtopic.php?f=8&t=92942)<br>
+   how to fix 'Failed to acquire the VirtualBox COM object' error caused by 'Cannot register the hard disk because a hard disk with UUID already exists'
+   
