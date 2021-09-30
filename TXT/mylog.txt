@@ -29,5 +29,18 @@ ZCZC W03 60 L23 Linux CLI including tar, etc.
 ZCZC W03 30 L05 Quiz related
 ZCZC W03 180 L13 Assignment #03
 ZCZC W03 60 L61 Reinstall/Restore/Backup Virtual Box
+ZCZC W04 40 L01 SCELE/Discord related
+ZCZC W04 150 L02 ZOOM meetings related
+ZCZC W04 120 L14 Assignment #04
+ZCZC W04 60 L73 Gaming
+ZCZC W04 45 L06 References/Books/Documents/GSGS related
+ZCZC W04 40 L03 GitHub related
+ZCZC W04 90 L23 Linux CLI including tar, etc.
+ZCZC W04 20 L05 Quiz related
+ZCZC W04 120 L32 YouTube: study, etc.
+ZCZC W04 60 L21 Trying something
+
+
+
 
 
