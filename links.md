@@ -21,9 +21,9 @@ permalink: /LINKS/
 5. [Linux base distro comparison](https://www.devdungeon.com/content/ubuntu-vs-debian-vs-fedora-vs-arch-vs-linux-mint)<br>
    Describe the differences between 3 linux base distro(as far as I know): Debian, Fedora, and arch. also describe the pros and cons of using each one and personal opinion from    the writer about those 3 distro 
    
-6. [Little-Big-Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)
+6. [Little-Big-Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>
    Describe about little and big endian. also the code about memory representation in C.
    
-7. [fifo vs lru](https://stressandstrains.wordpress.com/2014/02/16/fifo-vs-lru/)
+7. [fifo vs lru](https://stressandstrains.wordpress.com/2014/02/16/fifo-vs-lru/)<br>
    difference of fifo and lru. Also who is better beetween them.
    
