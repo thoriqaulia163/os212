@@ -39,6 +39,17 @@ ZCZC W04 90 L23 Linux CLI including tar, etc.
 ZCZC W04 20 L05 Quiz related
 ZCZC W04 120 L32 YouTube: study, etc.
 ZCZC W04 60 L21 Trying something
+ZCZC W05 60 L01 SCELE/Discord related
+ZCZC W05 120 L02 ZOOM meetings related
+ZCZC W05 40 L05 Quiz related
+ZCZC W05 60 L03 GitHub related
+ZCZC W05 120 L73 Gaming
+ZCZC W05 240 L15 Assignment #05
+ZCZC W05 60 L64 Helping OS related problem to a friend.
+ZCZC W05 45 L06 References/Books/Documents/GSGS related
+ZCZC W05 60 L21 Trying something
+ZCZC W05 30 L26 C-language
+ZCZC W05 120 L32 YouTube: study, etc.
 
 
 
