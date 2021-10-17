@@ -27,3 +27,8 @@ permalink: /LINKS/
 7. [fifo vs lru](https://stressandstrains.wordpress.com/2014/02/16/fifo-vs-lru/)<br>
    difference of fifo and lru. Also who is better beetween them.
    
+8. [Concurency vs paralel](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)
+   difference between concurency and paralel process
+   
+9. [fork and etc in linux](https://www.linuxtechi.com/learn-use-fork-vfork-wait-exec-system-calls-linux/)
+   In Linux Operating Systems, it is important to understand about fork and vfork system calls, how they behave, how we can use them and the differences between them.
