@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-[Github Page]( https://thoriqaulia163.github.io/os212/)|[Links](https://thoriqaulia163.github.io/os212/LINKS/) | [Github](https://github.com/thoriqaulia163/os212) | [My Log](https://thoriqaulia163.github.io/os212/TXT/mylog.txt) | [Rank](https://thoriqaulia163.github.io/os212/TXT/myrank.txt) | [Key](https://thoriqaulia163.github.io/os212/TXT/mypubkey.txt)
+[Github Page]( https://thoriqaulia163.github.io/os212/)|[Links](https://thoriqaulia163.github.io/os212/LINKS/) | [Github](https://github.com/thoriqaulia163/os212) | [My Log](https://thoriqaulia163.github.io/os212/TXT/mylog.txt) | [Rank](https://thoriqaulia163.github.io/os212/TXT/myrank.txt) | [Tips](https://thoriqaulia163.github.io/os212/TIPS/) | [Key](https://thoriqaulia163.github.io/os212/TXT/mypubkey.txt)
 
 # LINKS
 
