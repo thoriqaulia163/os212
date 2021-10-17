@@ -50,6 +50,21 @@ ZCZC W05 45 L06 References/Books/Documents/GSGS related
 ZCZC W05 60 L21 Trying something
 ZCZC W05 30 L26 C-language
 ZCZC W05 120 L32 YouTube: study, etc.
+ZCZC W06 60 L01 SCELE/Discord related
+ZCZC W06 120 L02 ZOOM meetings related
+ZCZC W06 120 L16 Assignment #06
+ZCZC W06 40 L05 Quiz related
+ZCZC W06 70 L06 References/Books/Documents/GSGS related
+ZCZC W06 60 L03 GitHub related
+ZCZC W06 30 L23 Linux CLI including tar, etc.
+ZCZC W06 180 YouTube: study, etc.
+ZCZC W06 30 L04 GitHub Pages related
+ZCZC W06 90 L73 Gaming
+
+
+
+
+
 
 
 
