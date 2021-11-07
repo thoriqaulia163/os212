@@ -19,7 +19,7 @@ permalink: /LINKS/
    how to fix 'Failed to acquire the VirtualBox COM object' error caused by 'Cannot register the hard disk because a hard disk with UUID already exists'
    
 5. [Linux base distro comparison](https://www.devdungeon.com/content/ubuntu-vs-debian-vs-fedora-vs-arch-vs-linux-mint)<br>
-   Describe the differences between 3 linux base distro(as far as I know): Debian, Fedora, and arch. also describe the pros and cons of using each one and personal opinion from    the writer about those 3 distro 
+   Describe the differences between 3 linux base distro(as far as I know): Debian, Fedora, and arch. also describe the pros and cons of using each one and personal opinion from the writer about those 3 distro 
    
 6. [Little-Big-Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>
    Describe about little and big endian. also the code about memory representation in C.
@@ -32,3 +32,12 @@ permalink: /LINKS/
    
 9. [fork and etc in linux](https://www.linuxtechi.com/learn-use-fork-vfork-wait-exec-system-calls-linux/)<br>
    In Linux Operating Systems, it is important to understand about fork and vfork system calls, how they behave, how we can use them and the differences between them.
+   
+10. [OS Critical Section Problem](https://www.javatpoint.com/os-critical-section-problem)<br>
+this website will help you to learn deaply about critical section because it will contain about the meaning of critical section problem in general and requirements of synchronization mechanisms that consist of primary and secondary along with simulated image.
+
+11. [Message Passing Model of Process Communication](https://www.tutorialspoint.com/message-passing-model-of-process-communication)<br>
+This website will discuss about process communication, message passing model, diagram that demonstrates message passing model, advantages and disadvantage of message passing model.
+
+12. [Strategies for handling Deadlock](https://www.javatpoint.com/os-strategies-for-handling-deadlock)<br>
+this web will explain to you how to deal with Deadlock problem.
