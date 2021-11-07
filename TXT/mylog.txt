@@ -60,6 +60,21 @@ ZCZC W06 30 L23 Linux CLI including tar, etc.
 ZCZC W06 180 YouTube: study, etc.
 ZCZC W06 30 L04 GitHub Pages related
 ZCZC W06 90 L73 Gaming
+ZCZC W07 60 L01 SCELE/Discord related
+ZCZC W07 120 L02 ZOOM meetings related
+ZCZC W07 30 L04 GitHub Pages related
+ZCZC W07 60 L03 GitHub related
+ZCZC W07 60 L22 Quiz
+ZCZC W07 30 L05 Quiz related
+ZCZC W07 30 L06 References/Books/Documents/GSGS related
+ZCZC W07 90 L17 Assignment #07
+ZCZC W07 60 L64 Helping OS related problem to a friend.
+ZCZC W07 60 L82 Reading Book (paper or online)
+ZCZC W07 120 L73 Gaming
+ZCZC W07 180 L70 Studying for other courses.
+ZCZC W07 90 L32 YouTube: study, etc.
+
+
 
 
 
