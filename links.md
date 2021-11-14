@@ -41,3 +41,12 @@ This website will discuss about process communication, message passing model, di
 
 12. [Strategies for handling Deadlock](https://www.javatpoint.com/os-strategies-for-handling-deadlock)<br>
 this web will explain to you how to deal with Deadlock problem.
+
+13. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+explain about CPU scheduling in operating system
+
+14. [Multiprocessor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html)<br>
+explain how multi processor schedulling works
+
+15.[Thread Scheduling](https://www.geeksforgeeks.org/thread-scheduling/)<br>
+explain how thread scheduling works in operating system
