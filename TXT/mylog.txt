@@ -82,7 +82,7 @@ ZCZC W08 120 L32 YouTube: study, etc.
 ZCZC W08 60 L80 Waching: Movie, YouTube, TV, etc.
 ZCZC W08 120 L64 Helping OS related problem to a friend.
 ZCZC W08 60 L73 Gaming
-ZCZC W08 240 L18 Assignment #08
+ZCZC W08 360 L18 Assignment #08
 ZCZC W08 30 L23 Linux CLI including tar, etc.
 ZCZC W08 60 L05 Quiz related
 ZCZC W08 90 L06 References/Books/Documents/GSGS related
