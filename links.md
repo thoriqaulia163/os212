@@ -48,5 +48,12 @@ explain about CPU scheduling in operating system
 14. [Multiprocessor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html)<br>
 explain how multi processor schedulling works
 
-15.[Thread Scheduling](https://www.geeksforgeeks.org/thread-scheduling/)<br>
+15. [Thread Scheduling](https://www.geeksforgeeks.org/thread-scheduling/)<br>
 explain how thread scheduling works in operating system
+
+16. [systemd Tips and Tricks](https://avcourt.github.io/tiny-cluster/2019/08/01/systemd.html)<br>
+Tips and Tricks for Systemd
+
+17. [Disk Scheduling Algorithm](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)<br>
+Explain about variances of disk scheduling algorithm
+
