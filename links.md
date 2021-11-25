@@ -57,3 +57,18 @@ Tips and Tricks for Systemd
 17. [Disk Scheduling Algorithm](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)<br>
 Explain about variances of disk scheduling algorithm
 
+18. [Fast IO for Competitive Programming](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)<br>
+I/O in C languange for programming
+
+19. [Recovering from Linux Hard Drive](https://www.usenix.org/blog/recovering-linux-hard-drive-failures)<br>
+how to recover broken linux from Hard Drive
+
+20. [Direct Memory Access (DMA)](https://www.techopedia.com/definition/2767/direct-memory-access-dma)<br>
+Allow I/O to access main memory directly and bypass processor to speed up process.
+
+21. [Device Driver](https://www.embedded.com/abstracting-device-driver-development/)<br>
+Driver for device I/O
+
+22. [Difference Between Serial and Parallel Transmission](https://techdifferences.com/difference-between-serial-and-parallel-transmission.html)<br>
+Parallel Transmission a byte (8 bits)
+
